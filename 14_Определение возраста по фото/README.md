@@ -15,7 +15,7 @@
 Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста.
 
 ### Данные:
-![link](https://chalearnlap.cvc.uab.cat/dataset/26/description/#:~:text=The%20APPA-REAL%20database%20contains%207%2C591%20images%20with%20associated,very%20stable%20%280.3%20standard%20error%20of%20the%20mean%29.)
+[DATASET](https://chalearnlap.cvc.uab.cat/dataset/26/description/#:~:text=The%20APPA-REAL%20database%20contains%207%2C591%20images%20with%20associated,very%20stable%20%280.3%20standard%20error%20of%20the%20mean%29.)
 
 ### Описание проекта
 * Построена модель, которая по фотографии определит приблизительный возраст человека. 
